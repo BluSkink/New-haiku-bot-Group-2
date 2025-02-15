@@ -7,7 +7,7 @@ from datetime import datetime
 import schedule
 import time
 
-# Replace with your actual Discord WebHook URL
+#Discord WebHook URL for Group 2
 DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1340337020630732921/HfRaDmOn4YtqGqUFgsfJALpXw4MmoMVWa3jeqtiH_raW_BFYhuiy0HxH-TYW8beNjPNf"
 
 # Define the times you want the bot to post (24-hour format)
