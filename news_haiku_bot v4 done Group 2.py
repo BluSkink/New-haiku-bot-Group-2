@@ -10,7 +10,7 @@ import time
 #Discord WebHook URL for Group 2
 DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1340337020630732921/HfRaDmOn4YtqGqUFgsfJALpXw4MmoMVWa3jeqtiH_raW_BFYhuiy0HxH-TYW8beNjPNf"
 
-# Define the times you want the bot to post (24-hour format)
+# Define the times to post (24-hour format)
 POST_TIMES = ["09:00", "18:00"]  # Example: 9:00 AM and 6:00 PM
 
 def get_news_from_website():
